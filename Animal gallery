@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Cute Animal Gallery</title>
+</head>
+<body>
+    <h2>Cute Animals</h2>
+    <table>
+
+       <tr>
+             <th>Animal</th>
+             <th>Color</th>
+       </tr>   
+       <tr>
+            <td>Dog</td>
+            <td>White</td>
+       </tr>
+       <tr>
+            <td>Cat</td>
+            <td>Black</td>
+       </tr>
+       <tr>
+             <td>Rabbit</td>
+             <td>Grey</td>
+       </tr>
+    </table>        
+    <img scr = "animal.jpg" alt="Animal Image">
+</body>
+</html>    

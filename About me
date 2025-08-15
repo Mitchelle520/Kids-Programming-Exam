@@ -1,0 +1,5 @@
+name = "Mitchelle"
+age = 17
+favourite_animal = "Rabbits"
+
+print(f"My name is {name},I'm {17} years old, and my favourite animal is {favourite_animal}")

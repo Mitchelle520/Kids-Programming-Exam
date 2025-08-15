@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>My Hobbies</title>
+</head> 
+<body>
+    <h1>My Favourite hobbies</h1>
+    <ul>
+        <li>Reading</li>
+        <li>Skating</li>
+        <li>Eating</li>
+        
+    </ul>
+</body>  
+</html>
